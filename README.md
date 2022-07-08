@@ -43,3 +43,4 @@ If my open source projects are useful for your product/company you can also spon
 - I am an Open Source Enthusiast ❤️
 - Fun Facts: Bugs are the best friend of every programmer ⚡
 
+[![Syed Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedfaisalsaleeem&count_private=true&show_icons=true&theme=radical)](https://github.com/syedfaisalsaleeem/github-readme-stats)
