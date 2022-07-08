@@ -4,9 +4,9 @@
  
  I currently live in Islamabad, Pakistan (PK)
  
+ ### You can follow be on
 [![Linkedin: anmol](https://img.shields.io/badge/-faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedfaisalsaleem/)](https://www.linkedin.com/in/syedfaisalsaleem/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedfaisalsaleem.100@gmail.com)](mailto:syedfaisalsaleem@gmail.com)
-
 <a href="https://stackoverflow.com/users/14016700/syed-faisal"><img src="https://stackoverflow.com/users/flair/14016700.png?theme=dark" width="208" height="58" alt="profile for SYED FAISAL at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SYED FAISAL at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
  A little more about me...  
@@ -34,6 +34,9 @@ faisal = {
 ```
 If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
 
+<h3> In my Opinion Programming is only based on ones and zeros </h3>
+<a><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy-downsized.gif"> </a>
+
 - I am an Open Source Enthusiast ❤️
-- Fun Facts: Bugs are the best friend of every programmer ⚡ Programming is only based on ones and zeros
+- Fun Facts: Bugs are the best friend of every programmer ⚡
 
