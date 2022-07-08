@@ -11,6 +11,7 @@
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=14016700" />
 </a>
+![](https://komarev.com/ghpvc/?username=syedfaisalsaleeem)
 
  A little more about me...  
  ```python
