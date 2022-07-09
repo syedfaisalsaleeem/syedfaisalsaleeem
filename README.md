@@ -4,7 +4,7 @@
  
  I currently live in Islamabad, Pakistan (PK)
  
- ### You can follow be on
+ ### You can follow me on
 [![Linkedin: anmol](https://img.shields.io/badge/-faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedfaisalsaleem/)](https://www.linkedin.com/in/syedfaisalsaleem/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:syedfaisalsaleem.100@gmail.com)](mailto:syedfaisalsaleem@gmail.com)
 <a href="https://stackoverflow.com/users/14016700/syed-faisal" target="_blank">
