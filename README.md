@@ -38,7 +38,7 @@ faisal = {
 ```
 If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
 
-<h3> In my Opinion Programming is only based on ones and zeros </h3>
+<h3> Programming is based on only two digits (ones and zeros) </h3>
 <a><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy-downsized.gif"> </a>
 
 - I am an Open Source Enthusiast ❤️
