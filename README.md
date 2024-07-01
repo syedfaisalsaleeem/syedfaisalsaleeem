@@ -2,7 +2,7 @@
 
  I'm a Software Developer from Pakistan
  
- I currently live in Islamabad, Pakistan (PK)
+ I currently live in Munich, Germany
  
  ### You can follow me on
 [![Linkedin: anmol](https://img.shields.io/badge/-faisal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syedfaisalsaleem/)](https://www.linkedin.com/in/syedfaisalsaleem/)
